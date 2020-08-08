@@ -41,7 +41,7 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 
 ```bash
 cd SageMaker
-git clone https://github.com/udacity/sagemaker-deployment.git
+git clone https://github.com/JamesDBartlett/bertelsmann-p5-sentiment-analysis.git
 exit
 ```
 
